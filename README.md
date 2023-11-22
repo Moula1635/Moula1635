@@ -50,7 +50,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"  />
+</div>
 
 ###
 
@@ -61,20 +65,6 @@
   <a href="https://www.linkedin.com/in/moula-saginala1635/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Moula1635/Moula1635/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Moula1635/count.svg?"  />
 </div>
 
 ###
