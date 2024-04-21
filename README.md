@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Moula Saginala.<br><br>Java backend maestro by day, DevOps virtuoso by night. Exploring the frontiers of Data Science and AI/ML. Let's code the future! 🚀💻</h2>
+<h2 align="left">Passionate backend developer with a knack for Java, Spring Boot, and AWS ☕ | DevOps enthusiast orchestrating scalable solutions 🚀 | Innovator, continuous learner, and AR aficionado | Fitness enthusiast and occasional trader 💪
+💻</h2>
 
 ###
 
