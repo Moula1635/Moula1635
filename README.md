@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋 I am Moula Saginala </h1>
-<h2 align="center">A Java Full Stack Developer </h2>
+<h2 align="center">A Java Backend Developer </h2>
 
 <br>
 
