@@ -3,9 +3,8 @@
 
 <br>
 
-- 🔭 I’m currently working on **Expense Tracker**
+- 🔭 I’m currently working on **Selenium Testing**
 
-- 🌱 I’m currently learning **Full Stack Development**
   <br>
   <br>
 
