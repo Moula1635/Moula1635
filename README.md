@@ -1,9 +1,9 @@
 <h1 align="center">Hey! 👋 I am Moula Saginala </h1>
-<h2 align="center">A Java Backend Developer </h2>
+<h2 align="center">A Java Developer </h2>
 
 <br>
 
-- 🔭 I’m currently working on **Selenium Testing**
+- 🔭 I’m currently working on **playwright Automation**
 
   <br>
   <br>
